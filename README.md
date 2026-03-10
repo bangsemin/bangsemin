@@ -67,8 +67,16 @@
 # 📁 Portfolio Projects
 
 - [x] **AI 주식 투자 전략 데이터 분석**  
-  AI Stock Investment Strategy Analysis – Rezolve AI Case Study  
+  [Repository 바로가기](https://github.com/bangsemin/stock-investment-analysis)
 
+- [ ] **금융 시장 & 거시경제 데이터 분석**  
+  (Coming Soon)
+
+- [ ] **부동산 시장 데이터 분석**
+
+- [ ] **반도체 산업 데이터 분석**
+
+- [ ] **공공 데이터 분석 프로젝트**
 - [ ] **금융 시장 & 거시경제 데이터 분석**  
   Financial Market & Macroeconomic Data Analysis  
 
