@@ -85,8 +85,7 @@
 
 # 📈 GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bangsemin&show_icons=true)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bangsemin&show_icons=true&count_private=true)
 ---
 
 # 💻 Most Used Languages
