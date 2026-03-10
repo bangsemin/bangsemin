@@ -67,7 +67,7 @@
 # 📁 Portfolio Projects
 
 - [x] **AI 주식 투자 전략 데이터 분석**  
-  [Repository 바로가기](https://github.com/bangsemin/stock-investment-analysis)
+  [Repository 바로가기](https://github.com/bangsemin/AI-Stock-Investment-Strategy-Analysis-Rezolve-AI-Case-Study)
 
 - [ ] **금융 시장 & 거시경제 데이터 분석**  
   (Coming Soon)
